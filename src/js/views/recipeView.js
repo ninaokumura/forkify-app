@@ -1,4 +1,4 @@
-import { Fraction } from 'fractional';
+import { Fraction } from 'fraction.js';
 // export default new RecipeView();
 import View from './View.js';
 
